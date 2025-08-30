@@ -64,6 +64,9 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx2MHlmbTZkd3lycWpyNHN4NHIwMWE4YTRhcmVjaXdleTd5cnNndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B6odR0DhsStfW/giphy.gif" width="700" alt="Tech Stack GIF" />
+</p>
 
 ---
 
@@ -75,6 +78,10 @@
 - 🌐 [**Network Performance**](https://github.com/AakankshaGupta16/NETWORK-PERFORMANCE) – Network analytics tool
 - 🤖 [**Email Assistant**](https://github.com/AakankshaGupta16/email-assistant) – AI Powered Gmail Reply Generator
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx2MHlmbTZkd3lycWpyNHN4NHIwMWE4YTRhcmVjaXdleTd5cnNndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5r5J4JD9miis/giphy.gif" width="700" alt="Featured Creations GIF" />
+</p>
+
 ---
 
 ## 📊 GitHub Statistics
@@ -83,6 +90,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AakankshaGupta16&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" height="160em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakankshaGupta16&theme=dracula&hide_border=true" height="160em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakankshaGupta16&layout=compact&theme=dracula&hide_border=true" height="160em"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWNreDN4cmR4Z2FiYmgwNmloaGJkc3Q3ZW5nMTJrdTFvdmo5aTQycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3mq6k5fqe5g8o/giphy.gif" />
 </p>
 
 ---
