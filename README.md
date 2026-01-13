@@ -67,7 +67,10 @@ VIT Chennai (2022–2026)
 
 ## 📈 GitHub Stats
 
-![Aakanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakankshaGupta16&show_icons=true&theme=dracula&hide_border=true)
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AakankshaGupta16&show_icons=true&count_private=true&theme=dracula)
+
 
 ---
 
