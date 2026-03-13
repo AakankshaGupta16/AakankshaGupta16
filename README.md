@@ -7,6 +7,12 @@
 I enjoy building **scalable backend systems, APIs, and data-driven applications** using Java and modern cloud technologies.
 
 ---
+# ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,react,aws,docker,postgres,mysql,git,postman,idea,vscode&perline=6" />
+</p>
+
 
 # 🚀 Featured Projects
 
