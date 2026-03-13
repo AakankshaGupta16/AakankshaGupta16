@@ -116,6 +116,8 @@ Organized coding contests, workshops, and tech events.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AakankshaGupta16&show_icons=true&count_private=true&theme=dracula)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakankshaGupta16&layout=compact&theme=dracula&langs_count=8)
+
 ---
 
 # 🔗 Connect With Me
