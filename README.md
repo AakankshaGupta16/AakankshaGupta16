@@ -1,4 +1,4 @@
-# 👩‍💻 Aakanksha Gupta
+# Aakanksha Gupta
 ### Software Developer | Java • Spring Boot • Data Systems
 
 🎓 Final Year B.Tech in Electronics & Communication Engineering — **VIT Chennai (2022–2026)**  
