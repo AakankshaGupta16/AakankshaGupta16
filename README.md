@@ -119,6 +119,10 @@ Organized coding contests, workshops, and tech events.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakankshaGupta16&layout=compact&theme=dracula&langs_count=8)
 
 ---
+# 📊 Coding Activity
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aakanksha_16?theme=dark&font=Baloo%202&ext=heatmap)
+---
 
 # 🔗 Connect With Me
 
