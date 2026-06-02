@@ -1,9 +1,10 @@
 # Aakanksha Gupta
+Passionate about Data Analytics, Backend Engineering, Cloud Technologies, and AI-powered applications.
 
+I build data-driven solutions, scalable backend systems, and cloud-native applications using SQL, Power BI, Python, Java, Spring Boot, and AWS.
 Final Year B.Tech in Electronics & Communication Engineering — **VIT Chennai (2022–2026)**  
 
-Passionate about Backend Engineering, Distributed Systems, and Data Platforms.  
-I build scalable backend systems and APIs using Java, Spring Boot, and cloud technologies.
+
 
 
 ---
@@ -15,20 +16,17 @@ I build scalable backend systems and APIs using Java, Spring Boot, and cloud tec
 
 
 # Featured Projects
+## Telecom Customer Churn Analysis | SQL • Python • Power BI • ML
+End-to-end data analytics pipeline analyzing telecom customer churn patterns.
 
-## URL Shortener & Analytics Platform | Spring Boot • React • JWT • Docker
-Bitly-inspired full-stack platform to generate and manage short URLs with real-time analytics.
+- Built **ETL pipeline using SQL Server and Python**
+- Created **Power BI dashboards for churn insights and KPIs**
+- Developed ML models (**Random Forest, CatBoost**) with **SHAP explainability**
 
-- Implemented **JWT-based authentication** using Spring Security  
-- Built **REST APIs for URL generation, management, and analytics**  
-- Designed **fast path-based redirection system** for efficient URL routing  
-- Dashboard for **tracking click analytics and link performance**  
-- Backend containerized using **Docker multi-stage builds**
-
-Repo: https://github.com/AakankshaGupta16/Url-Shortener-Platform
+Repo:  
+https://github.com/AakankshaGupta16/telecom-churn-analysis
 
 ---
-
 ## Email Assistant | Spring Boot • React • Chrome Extension • Gemini API
 AI-powered Gmail reply generator integrated directly into Gmail UI.
 
@@ -51,15 +49,16 @@ Repo: https://github.com/AakankshaGupta16/SMART-MAIL
 
 ---
 
-## Telecom Customer Churn Analysis | SQL • Python • Power BI • ML
-End-to-end data analytics pipeline analyzing telecom customer churn patterns.
+## URL Shortener & Analytics Platform | Spring Boot • React • JWT • Docker
+Bitly-inspired full-stack platform to generate and manage short URLs with real-time analytics.
 
-- Built **ETL pipeline using SQL Server and Python**
-- Created **Power BI dashboards for churn insights and KPIs**
-- Developed ML models (**Random Forest, CatBoost**) with **SHAP explainability**
+- Implemented **JWT-based authentication** using Spring Security  
+- Built **REST APIs for URL generation, management, and analytics**  
+- Designed **fast path-based redirection system** for efficient URL routing  
+- Dashboard for **tracking click analytics and link performance**  
+- Backend containerized using **Docker multi-stage builds**
 
-Repo:  
-https://github.com/AakankshaGupta16/telecom-churn-analysis
+Repo: https://github.com/AakankshaGupta16/Url-Shortener-Platform
 
 ---
 
@@ -84,7 +83,7 @@ Java • Python • C • C++ • SQL
 Spring Boot • REST APIs • Spring Security • JWT • JPA
 
 ### Data & Analytics
-SQL Server • Power BI • Pandas • NumPy • ETL Pipelines
+SQL • SQL Server • Power BI • Tableau • Pandas • NumPy • ETL Pipelines
 
 ### Cloud & DevOps
 AWS (Lambda, S3, SES, EventBridge, IAM) • Docker
@@ -112,25 +111,35 @@ VIT Chennai (2022–2026)
 # Leadership
 
 **Event Management Lead — CodeChef VITC**  
-Organized coding contests, workshops, and tech events.
+Organized coding contests, workshops, and technical events for 500+ participants while coordinating cross-functional student teams.
 
 **Social Media Lead & Advisory — Trekking Club VIT Chennai**
+Managed social media initiatives and contributed to strategic planning and club operations.
 
 ---
-
-# GitHub Stats
+# GitHub & Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakankshaGupta16&show_icons=true&count_private=true&theme=dracula" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakankshaGupta16&layout=compact&theme=dracula&langs_count=8" height="165"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakankshaGupta16&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
----
-# Coding Activity
+<p align="center">
+  <!-- Repos per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AakankshaGupta16&theme=github_dark" width="49%" />
+  <!-- Most Committed Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AakankshaGupta16&theme=github_dark" width="49%" />
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aakanksha_16?theme=dark&font=Baloo%202&ext=heatmap)
----
+<p align="center">
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AakankshaGupta16&theme=github_dark" width="100%" />
+</p>
 
+<p align="center">
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/Aakanksha_16?theme=dark&font=Baloo%202&ext=heatmap" width="100%" />
+</p>
 # Connect With Me
 
 LinkedIn  
@@ -140,5 +149,3 @@ LeetCode
 https://leetcode.com/u/Aakanksha_16/
 
 ---
-
-Currently seeking **Software Developer / Backend Engineer roles (2026 Graduate)**.
